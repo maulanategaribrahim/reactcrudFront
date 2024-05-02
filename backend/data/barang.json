@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Bubuk",
+    "quantity": 2,
+    "merk": "Brand A",
+    "Stok": 10
+  },
+  {
+    "id": 2,
+    "name": "Gula Pasir",
+    "quantity": 5,
+    "merk": "Brand B",
+    "Stok": 20
+  },
+  {
+    "id": 3,
+    "name": "Air Mineral",
+    "quantity": 3,
+    "merk": "Brand C",
+    "Stok": 15
+  },
+  {
+    "id": 5,
+    "name": "Air ",
+    "quantity": 3,
+    "merk": "Brand C",
+    "Stok": 15
+  }
+]
